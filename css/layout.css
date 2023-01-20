@@ -1,0 +1,20 @@
+body {
+    background-color: #ebeef5;
+}
+nav {
+    position: absolute;
+    height: 100%;
+    width: 100px;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    background-color: #F7F6FF;
+}
+
+nav:hover {
+    width: 300px;
+}
+
+footer {
+    background-color: #ebeef5;
+}
